@@ -1,0 +1,5 @@
+imageio
+regex
+requests
+beautifulsoup4
+Pillow
